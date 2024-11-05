@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent = "Theme.AppCompat.Light.NoActionBar">
+        <item name="android:colorPrimary">@color/primaryColor</item>
+    </style>
+
+    <style name="RatingBar" parent = "AppTheme">
+        <item name="colorControlActivated">#FFC63C</item>
+        <item name="colorControlNormal">#1D1D1D</item>
+    </style>
+</resources>

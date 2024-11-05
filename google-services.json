@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "169485311961",
+    "project_id": "fir-case-d128a",
+    "storage_bucket": "fir-case-d128a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169485311961:android:86b5290c0ea0e71ceac3c8",
+        "android_client_info": {
+          "package_name": "com.example.f3connection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf0x4Xg5LDiKqwCDGAHjuS-o7P0lg29w8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
